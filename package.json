@@ -1,0 +1,11 @@
+{
+  "name": "portfolio_server",
+  "version": "1.0.0",
+  "description": "My mini portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Akinbande Amos",
+  "license": "ISC"
+}
